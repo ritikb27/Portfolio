@@ -1,2 +1,0 @@
-# Portfolio
-Responsive Digital portfolio
